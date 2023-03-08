@@ -11,12 +11,6 @@ Estos son los talleres disponibles en este repositorio
 ### Clonar el repositorio
 Para clonar el repositorio ejecuta el comando:
 ```
-git clone https://github.com/sergioarmgpl/taller-docker.git
+https://github.com/wcalvoalvarez/Taller_Docker.git
 ```
 
-### Usar el servidor del demo
-Para conectarte al servidor del demo baja la llave ubicada en la carpeta key y ejecuta:
-```
-ssh -i taller-docker.pem root@IP_SERVIDOR
-```
-Puedes usar putty o cualquier cliente para conectarte.
